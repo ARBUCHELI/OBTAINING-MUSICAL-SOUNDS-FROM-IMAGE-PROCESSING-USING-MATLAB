@@ -7,6 +7,22 @@ Resumen—Este proyecto consiste en la implementación de un algoritmo programad
 
 ## Palabras Claves—Reconocimiento, comparación, función de distribución de probabilidad, distancia en pixeles, notas musicales.
 
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/bin.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/dedo.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/dedoespacios.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/dedoespaciov.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/dedoosc.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/dil.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/ero.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/fdps.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/fdpv.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/hsv.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/pianos.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/pianov.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/pieless.png)
+![image](https://raw.githubusercontent.com/ARBUCHELI/UTILIZACION-DE-HERRAMIENTAS-COMPUTACIONALES-DE-PROCESAMIENTO-DE-IMAGENES-PARA-REPRODUCIR-MUSICA/main/pictures/pielesv.png)
+
+
 
 
 
