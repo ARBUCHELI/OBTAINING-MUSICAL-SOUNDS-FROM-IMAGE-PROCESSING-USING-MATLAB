@@ -24,6 +24,8 @@ Resumen—Este proyecto consiste en la implementación de un algoritmo programad
 
 
 
+## Author: Andrés R. Bucheli.
+
 
 
 
