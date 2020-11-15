@@ -1,0 +1,23 @@
+x1=imread('1.jpg');
+tam1=si
+tam2=size(x2);
+hsv=rgb2hsv(pieles);
+hsvp=rgb2hsv(x2);
+hist=imhist(hsv(:,:,2),256);
+fdp=hist/sum(hist);
+
+for i=1:tam2(1)
+    for j=1:tam2(2)
+        if(hsvp(i,j,2)==0)
+            hsvp(i,j,2)=1;
+            
+            
+   nueva(i,j)=hist(hsvp(i,j,2));     
+        
+        else
+            nueva(i,j)=fdp(im2uint8(hsvp(i,j,2)));  
+        end
+            
+    end
+    
+end
